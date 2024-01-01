@@ -1,0 +1,20 @@
+{
+  "name": "BabysFirstModpack",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "A modpack of the best character, item, skin, and QOL mods - so you don't have to do it yourself (lethal company edition)",
+  "dependencies": [
+    "BepInEx-BepInExPack-5.4.2100",
+    "notnotnotswipez-MoreCompany-1.7.2",
+    "x753-More_Suits-1.4.1",
+    "ViViKo-MoreMaterials-1.3.0",
+    "Tiger_Frog-TigerFasionSuits-1.0.6",
+    "Sligili-More_Emotes-1.2.2",
+    "RugbugRedfern-Skinwalkers-2.0.1",
+    "Evaisa-HookGenPatcher-0.0.5",
+    "Evaisa-LethalLib-0.10.0",
+    "Evaisa-LethalThings-0.8.8",
+    "Midge-PushCompany-1.2.0",
+    "FlipMods-FasterItemDropship-1.2.0"
+  ]
+}
