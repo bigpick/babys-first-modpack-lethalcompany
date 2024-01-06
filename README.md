@@ -35,6 +35,10 @@ mkdir BabysFirstModpack && cp * BabysFirstModpack; zip -rj BabysFirstModpack.zip
 
 ## Changelog
 
+### 1.1.1
+
+Lots more suits.
+
 ### 1.0.0
 
 Initial release.
