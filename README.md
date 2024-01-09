@@ -35,6 +35,13 @@ mkdir BabysFirstModpack && cp * BabysFirstModpack; zip -rj BabysFirstModpack.zip
 
 ## Changelog
 
+### 1.3.0
+
+Added
+
+* lots more emotes.
+* helmet cam
+
 ### 1.1.1
 
 Lots more suits.
